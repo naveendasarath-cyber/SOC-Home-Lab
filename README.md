@@ -2,7 +2,7 @@
 
 Hands-on cybersecurity lab focused on Security Operations Center (SOC) monitoring, detection, investigation and incident response.
 
-## 🔧 Technologies
+##  Technologies
 
 - Microsoft Sentinel
 - Splunk
@@ -12,7 +12,7 @@ Hands-on cybersecurity lab focused on Security Operations Center (SOC) monitorin
 - Active Directory
 - MITRE ATT&CK
 
-## 🎯 Objectives
+##  Objectives
 
 - Monitor security events
 - Investigate alerts
@@ -22,7 +22,7 @@ Hands-on cybersecurity lab focused on Security Operations Center (SOC) monitorin
 - Document security investigations
 - Develop incident response skills
 
-## 📂 Projects
+##  Projects
 
 Projects and investigations will be added as I build and document my SOC lab.
 
